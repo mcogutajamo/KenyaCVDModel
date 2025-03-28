@@ -1,0 +1,8 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-03-28T12:07Z
+urls:
+  reference: https://mcogutajamo.github.io/KenyaCVDModel/reference
+  article: https://mcogutajamo.github.io/KenyaCVDModel/articles
